@@ -206,6 +206,7 @@ section.success {
   display: block;
   position: relative;
   max-width: 400px;
+  max-height: 300px;
   margin: 0 auto;
   border: 1px solid #efefef;
 }
@@ -257,6 +258,7 @@ section.success {
 #portfolio .portfolio-item .portfolio-link {
   display: block;
   position: relative;
+  max-height: 300px;
   margin: 0 auto;
   border: 1px solid #efefef;
 }
@@ -306,6 +308,7 @@ section.success {
   display: block;
   position: relative;
   max-width: 400px;
+  max-height: 300px;
   margin: 0 auto;
   border: 1px solid #efefef;
 }
