@@ -257,7 +257,6 @@ section.success {
 #portfolio .portfolio-item .portfolio-link {
   display: block;
   position: relative;
-  max-width: 600px;
   margin: 0 auto;
   border: 1px solid #efefef;
 }
