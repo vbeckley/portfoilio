@@ -618,5 +618,6 @@ fieldset[disabled] .btn-success.active {
  .portfolio-modal .modal-content h2 {
   margin: 0;
   font-size: 2em;
+  hyphens: auto;
 }
 }
