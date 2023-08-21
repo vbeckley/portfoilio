@@ -244,6 +244,7 @@ section.success {
 #print .portfolio-item .portfolio-link .caption .caption-content h3,
 #print .portfolio-item .portfolio-link .caption .caption-content h4 {
   margin: 0;
+  color: #000000;
 }
 #print * {
   z-index: 2;
@@ -620,4 +621,9 @@ fieldset[disabled] .btn-success.active {
   font-size: 2em;
   overflow-wrap: break-word;
 }
+.portfolio-modal .modal-content img {
+  margin-bottom: 30px;
+  opacity: 0.2;
+}
+  
 }
